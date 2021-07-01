@@ -1,0 +1,132 @@
+body {
+    font-family: 'Sarabun', sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 1.8;
+    margin: 0;
+}
+
+
+/********************* HEADER NAVBAR ***************/
+
+#navbar {
+    padding: 2% 6%;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: 100;
+    padding: 0;
+}
+
+.navbar-nav {
+    font-weight: lighter;
+}
+
+.nav-item {
+    padding-left: 22px;
+    font-size: 0.9rem;
+}
+
+a {
+    font-size: 0.86rem;
+}
+
+h3 {
+    font-size: 0.9rem;
+}
+
+
+/********************* HERO SECTION ***************/
+
+#hero-img {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    position: absolute;
+    background-color: #2fc28c;
+    color: white;
+    font-size: 1.6vw;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-top: 80px;
+    padding: 20px;
+    word-spacing: 1.5px;
+}
+
+
+/********************* RECENT WORK ***************/
+
+#recent-work hr {
+    position: relative;
+    top: -10px;
+}
+
+#recent-work h4 {
+    position: relative;
+    bottom: -13px;
+}
+
+
+/********************* FROM THE BLOG ***************/
+
+#from-the-blog hr {
+    position: relative;
+    top: -10px;
+}
+
+#from-the-blog h4 {
+    position: relative;
+    bottom: -25px;
+}
+
+
+/********************* BOTTOM SECTION ***************/
+
+#bottom-section {
+    background-color: rgb(66, 63, 63);
+    padding: 30px;
+}
+
+#bottom-section h6 {
+    line-height: 0;
+    color: #CACACA;
+    font-size: 0.8rem;
+    font-weight: lighter;
+}
+
+#bottom-section h4 {
+    padding-bottom: 20px;
+}
+
+#bottom-section p {
+    color: #CACACA;
+    font-size: 0.8rem;
+}
+
+#bottom-section hr {
+    position: relative;
+    top: 4px;
+    background-color: rgb(122, 113, 113)
+}
+
+
+/********************* FOOTER ***************/
+
+footer {
+    background-color: #131414;
+    padding: 2%;
+    text-align: center;
+}
+
+footer h1 {
+    color: rgb(71, 69, 69);
+    font-size: 0.75rem;
+    font-weight: lighter;
+}
+
+#all-sections {
+    padding: 50px;
+}
